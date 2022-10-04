@@ -1,2 +1,1 @@
-# Atirador
-(p a i n)
+# Zombie-Shooter-stage-3
